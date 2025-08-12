@@ -1,4 +1,4 @@
-## Once you pop, you don't stop.
+Once you pop, you don't stop.
 
 <!--
 **varuntheestallion/varuntheestallion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
